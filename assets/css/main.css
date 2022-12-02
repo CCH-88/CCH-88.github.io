@@ -2208,15 +2208,15 @@ input, select, textarea {
 				border-radius: 0;
 			}
 
-		@media screen and (min-width: 1680px) {
+			@media screen and (min-width: 1680px) {
 
-			.image.main {
-				display: block;
-				height: 20.8em;
-				border-radius: 0;
+				.image.main {
+					display: block;
+					height: 20.75em;
+					border-radius: 0;
+				}
 			}
-
-		}
+		
 
 /* List */
 
